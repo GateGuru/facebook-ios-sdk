@@ -12,3 +12,4 @@ test/UnitTest/UnitTest.xcodeproj/*.mode*
 test/UnitTest/build/
 *~
 *#
+xcuserdata
